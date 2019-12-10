@@ -1,6 +1,6 @@
 # Storemapper CRUD API V3 - PHP
 
-The Storemapper PHP library provides concenient access to the Storemapper API from applications written in the PHP language. It includes a pre-defined set of class for API resources that initialize themselves dynamically from API responses.
+The Storemapper PHP library provides convenient access to the Storemapper API from applications written in the PHP language. It includes a pre-defined set of class for API resources that initialize themselves dynamically from API responses.
 
 
 ## Instructions
